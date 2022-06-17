@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7674702101515017359
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3041501704685879546}
+  - component: {fileID: 3041501704685879547}
+  m_Layer: 0
+  m_Name: Prefabs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3041501704685879546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674702101515017359}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.6399999, y: 0.10454103, z: 6.6289997}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3041501704685879547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674702101515017359}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257779029213ae944ad18cc26fe6551a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _windows:
+  - {fileID: 1051494085949463891, guid: 3ed28640cd886074fbf11e039c9665b2, type: 3}
+  - {fileID: 1051494085949463891, guid: 3ed28640cd886074fbf11e039c9665b2, type: 3}
+  _doors:
+  - {fileID: 8877701889253658430, guid: d2af34b445857e14cb188c9b0f3a0c13, type: 3}
+  _bedroomWalls:
+  - {fileID: 2100000, guid: b878d44417f55634ba43dec2415ba7ba, type: 2}
+  - {fileID: 2100000, guid: 1ed1cfe721085734bbcf992d4564a028, type: 2}
+  - {fileID: 2100000, guid: b3901eb9133ff3b4387e75b9628f27d3, type: 2}
+  - {fileID: 2100000, guid: 98d1f3e70b3a4fb40800773395620c3d, type: 2}
+  _bedroomFloors:
+  - {fileID: 2100000, guid: b878d44417f55634ba43dec2415ba7ba, type: 2}
+  - {fileID: 2100000, guid: 1ed1cfe721085734bbcf992d4564a028, type: 2}
+  - {fileID: 2100000, guid: b3901eb9133ff3b4387e75b9628f27d3, type: 2}
+  - {fileID: 2100000, guid: 98d1f3e70b3a4fb40800773395620c3d, type: 2}
+  _kitchenWalls:
+  - {fileID: 2100000, guid: d0c3e2cba90116242971b7cad268522d, type: 2}
+  - {fileID: 2100000, guid: e8aad5fb5cce9e74486a7065975644b2, type: 2}
+  - {fileID: 2100000, guid: fb667f9a224665a4fa1596b444733c28, type: 2}
+  - {fileID: 2100000, guid: 3bd72f13dc2d9ad4eb648cf4f728863a, type: 2}
+  _kitchenFloors:
+  - {fileID: 2100000, guid: d0c3e2cba90116242971b7cad268522d, type: 2}
+  - {fileID: 2100000, guid: e8aad5fb5cce9e74486a7065975644b2, type: 2}
+  - {fileID: 2100000, guid: fb667f9a224665a4fa1596b444733c28, type: 2}
+  - {fileID: 2100000, guid: 3bd72f13dc2d9ad4eb648cf4f728863a, type: 2}
+  _bathroomWalls:
+  - {fileID: 2100000, guid: 6a63fe36b31dcde479fe0bfe12c6fc68, type: 2}
+  - {fileID: 2100000, guid: 0206f568d1681ae4b831ba533d8af019, type: 2}
+  - {fileID: 2100000, guid: 1535d05293fd18344af940561b61392f, type: 2}
+  - {fileID: 2100000, guid: 36d59dad2a2ce7140b7fc65d774bbe9a, type: 2}
+  _bathroomFloors:
+  - {fileID: 2100000, guid: 6a63fe36b31dcde479fe0bfe12c6fc68, type: 2}
+  - {fileID: 2100000, guid: 0206f568d1681ae4b831ba533d8af019, type: 2}
+  - {fileID: 2100000, guid: 1535d05293fd18344af940561b61392f, type: 2}
+  - {fileID: 2100000, guid: 36d59dad2a2ce7140b7fc65d774bbe9a, type: 2}
+  - {fileID: 2100000, guid: 543565c676aab124dadd6795094048b7, type: 2}
+  - {fileID: 2100000, guid: 71bbe2cd425f08b4e9ed229412dead9f, type: 2}
+  _playroomWalls:
+  - {fileID: 2100000, guid: 3bd72f13dc2d9ad4eb648cf4f728863a, type: 2}
+  - {fileID: 2100000, guid: e91ff20ecc1666c4b873de66aaeef0ae, type: 2}
+  - {fileID: 2100000, guid: 543565c676aab124dadd6795094048b7, type: 2}
+  - {fileID: 2100000, guid: 71bbe2cd425f08b4e9ed229412dead9f, type: 2}
+  _playroomFloors:
+  - {fileID: 2100000, guid: 3bd72f13dc2d9ad4eb648cf4f728863a, type: 2}
+  - {fileID: 2100000, guid: e91ff20ecc1666c4b873de66aaeef0ae, type: 2}
+  - {fileID: 2100000, guid: 543565c676aab124dadd6795094048b7, type: 2}
+  - {fileID: 2100000, guid: 71bbe2cd425f08b4e9ed229412dead9f, type: 2}
+  _livingRoomWalls:
+  - {fileID: 2100000, guid: 9382fe8395a21544897f3c8287aa0fdc, type: 2}
+  - {fileID: 2100000, guid: b3901eb9133ff3b4387e75b9628f27d3, type: 2}
+  - {fileID: 2100000, guid: 98d1f3e70b3a4fb40800773395620c3d, type: 2}
+  - {fileID: 2100000, guid: 9b3ccec79377de84b89671575b673ee8, type: 2}
+  _livingRoomFloors:
+  - {fileID: 2100000, guid: 9382fe8395a21544897f3c8287aa0fdc, type: 2}
+  - {fileID: 2100000, guid: b3901eb9133ff3b4387e75b9628f27d3, type: 2}
+  - {fileID: 2100000, guid: 98d1f3e70b3a4fb40800773395620c3d, type: 2}
+  - {fileID: 2100000, guid: 9b3ccec79377de84b89671575b673ee8, type: 2}

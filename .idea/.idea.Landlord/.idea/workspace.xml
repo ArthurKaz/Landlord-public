@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b07c8b45-fc4e-49bf-bf42-e4b44cd0c1c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Landlord/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Landlord/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/NetCreator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/NetCreator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Parts of Apartment/Wall(4 cells).prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Parts of Apartment/Wall(4 cells).prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Parts of Apartment/WallForSmallWindow .prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Parts of Apartment/WallForSmallWindow .prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/LevelBuilder.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LevelBuilder.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MyFloors.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MyFloors.unity" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tenant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveTo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataAboutGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FurnitureInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Prefabs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pocket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelViewer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Analitics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/87ECB5E0-B914-4381-A9A5-379632A8BBB3/ba/1d0313d9/02000374.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Room/CommonRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Maket/Floor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Room/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/CustomSnapPointTool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Doors/Teleporter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87ECB5E0-B914-4381-A9A5-379632A8BBB3/19/bcde9ee8/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GenerateFloors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/127E81E1-CB34-41CC-97D2-6B1910DAAE77/ae/fe62d87f/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SetColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Custom/CustomSnapPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FurnitureTemplate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E81851A0-DC73-4A79-AFA9-F5B7273162BE/a8/a7ed8f99/EventHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Room/MiddleRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87ECB5E0-B914-4381-A9A5-379632A8BBB3/09/70d71d10/UnityAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Money.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Maket/Model.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Message.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87ECB5E0-B914-4381-A9A5-379632A8BBB3/21/0c09c06b/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Magazine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloorTemplate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Data.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0BA49A34-043C-4DB0-B03B-2DE95259DDD8/3a/ab592ce0/XContainer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Editor/NetCreator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B8DB76A-688C-4D18-A15D-D7DFE092A035/d6/c48d4944/Handles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TenantTemplate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0BA49A34-043C-4DB0-B03B-2DE95259DDD8/d1/810a620f/XAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/FurnitureInfo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tenant.cs" />
+      <option value="$PROJECT_DIR$/Assets/polyperfect/Common/Wander Script/Common_WanderScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Room/MiddleRoom.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/MoveTo.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Data.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Logger.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Magazine.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FloorTemplate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GenerateFloors.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Furniture.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FurnitureGrid.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FurnitureTemplate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Message.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TenantTemplate.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Prefabs.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Floor/Floor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Room/Room.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Room/CommonRoom.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Clock.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Floor/CommonFloor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Floor/MiddleFloor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Money.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Test1.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LevelController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Levels/LvlController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Pocket.cs" />
+      <option value="$PROJECT_DIR$/Assets/SetColor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Tasks.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Task.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LevelViewer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Analitics.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DataAboutGame.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerOprions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Levels/LevelController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerOptions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Maket/Model.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Maket/Floor.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Maket/Room.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Editor/CutomSnap.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Custom/CutomSnap.cs" />
+      <option value="$PROJECT_DIR$/Assets/Editor/CustomSnapPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Custom/Custom.cs" />
+      <option value="$PROJECT_DIR$/Assets/Editor/CustomSnapPointTool.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Custom/CustomSnapPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Custom/CustomSnap.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Custom/CustomDeck.cs" />
+      <option value="$PROJECT_DIR$/Assets/Editor/NetCreator.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1nNpPF2WdgvZJ6GjGEE56XrDHDt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b07c8b45-fc4e-49bf-bf42-e4b44cd0c1c4" name="Default Changelist" comment="" />
+      <created>1611240381534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611240381534</updated>
+      <workItem from="1611240402263" duration="223000" />
+      <workItem from="1611241120919" duration="2471000" />
+      <workItem from="1611247512069" duration="2508000" />
+      <workItem from="1611309514497" duration="1789000" />
+      <workItem from="1611321940221" duration="1543000" />
+      <workItem from="1611392155489" duration="7304000" />
+      <workItem from="1611406779506" duration="1489000" />
+      <workItem from="1612342213349" duration="3758000" />
+      <workItem from="1612349043721" duration="12795000" />
+      <workItem from="1612769196959" duration="2187000" />
+      <workItem from="1612776768421" duration="764000" />
+      <workItem from="1612787312433" duration="424000" />
+      <workItem from="1612790971595" duration="5885000" />
+      <workItem from="1612812842368" duration="5106000" />
+      <workItem from="1612875452903" duration="3184000" />
+      <workItem from="1612950520974" duration="4313000" />
+      <workItem from="1613218585331" duration="2777000" />
+      <workItem from="1613228866877" duration="3083000" />
+      <workItem from="1614581394090" duration="5349000" />
+      <workItem from="1614608895260" duration="9213000" />
+      <workItem from="1614664823808" duration="17239000" />
+      <workItem from="1614755874405" duration="2871000" />
+      <workItem from="1614768294975" duration="520000" />
+      <workItem from="1614782190633" duration="7179000" />
+      <workItem from="1614840516587" duration="10628000" />
+      <workItem from="1614929970291" duration="11824000" />
+      <workItem from="1615272072383" duration="13459000" />
+      <workItem from="1615297924039" duration="13947000" />
+      <workItem from="1615356345756" duration="1377000" />
+      <workItem from="1615373948232" duration="1785000" />
+      <workItem from="1615452669429" duration="984000" />
+      <workItem from="1615474039278" duration="2545000" />
+      <workItem from="1615482234018" duration="1379000" />
+      <workItem from="1615532225470" duration="2753000" />
+      <workItem from="1615545139771" duration="12719000" />
+      <workItem from="1615575042931" duration="4470000" />
+      <workItem from="1615618065218" duration="4226000" />
+      <workItem from="1615652741467" duration="4483000" />
+      <workItem from="1615716788760" duration="1395000" />
+      <workItem from="1615795005031" duration="5214000" />
+      <workItem from="1615970502033" duration="2453000" />
+      <workItem from="1615985286697" duration="694000" />
+      <workItem from="1616492150195" duration="2646000" />
+      <workItem from="1616499276439" duration="2523000" />
+      <workItem from="1616568336374" duration="6476000" />
+      <workItem from="1616669271177" duration="484000" />
+      <workItem from="1616918602199" duration="645000" />
+      <workItem from="1616935085723" duration="5307000" />
+      <workItem from="1616957146414" duration="4339000" />
+      <workItem from="1617041404828" duration="629000" />
+      <workItem from="1617082475754" duration="1284000" />
+      <workItem from="1617124945307" duration="4245000" />
+      <workItem from="1617213541105" duration="1236000" />
+      <workItem from="1617215988522" duration="3333000" />
+      <workItem from="1617350262717" duration="2105000" />
+      <workItem from="1617456428738" duration="3990000" />
+      <workItem from="1617544850596" duration="749000" />
+      <workItem from="1617866883472" duration="1153000" />
+      <workItem from="1617954527019" duration="1118000" />
+      <workItem from="1618475470900" duration="1849000" />
+      <workItem from="1618484769545" duration="597000" />
+      <workItem from="1618924617997" duration="188000" />
+      <workItem from="1619423234301" duration="1546000" />
+      <workItem from="1619505900005" duration="1307000" />
+      <workItem from="1619587957947" duration="4578000" />
+      <workItem from="1619945151110" duration="410000" />
+      <workItem from="1620022685622" duration="7434000" />
+      <workItem from="1620209436647" duration="11256000" />
+      <workItem from="1620293896452" duration="3239000" />
+      <workItem from="1620382157883" duration="9419000" />
+      <workItem from="1620711467843" duration="278000" />
+      <workItem from="1620716847833" duration="5450000" />
+      <workItem from="1620834962403" duration="347000" />
+      <workItem from="1621057452175" duration="2358000" />
+      <workItem from="1621237982807" duration="1599000" />
+      <workItem from="1621266677646" duration="4589000" />
+      <workItem from="1621319551418" duration="5399000" />
+      <workItem from="1621332667684" duration="3742000" />
+      <workItem from="1621880653726" duration="939000" />
+      <workItem from="1621881725595" duration="671000" />
+      <workItem from="1621921546876" duration="367000" />
+      <workItem from="1621958702396" duration="2545000" />
+      <workItem from="1622008741531" duration="1111000" />
+      <workItem from="1622013595613" duration="1468000" />
+      <workItem from="1622045678856" duration="2000" />
+      <workItem from="1622267005303" duration="16000" />
+      <workItem from="1622267290082" duration="2948000" />
+      <workItem from="1622451673270" duration="8030000" />
+      <workItem from="1622701431412" duration="2933000" />
+      <workItem from="1622707885177" duration="3000" />
+      <workItem from="1623057186190" duration="5066000" />
+      <workItem from="1623066043427" duration="489000" />
+      <workItem from="1623068955091" duration="4253000" />
+      <workItem from="1623135462295" duration="3543000" />
+      <workItem from="1623222183771" duration="3093000" />
+      <workItem from="1623237938799" duration="624000" />
+      <workItem from="1623685389263" duration="1692000" />
+      <workItem from="1623857445287" duration="7724000" />
+      <workItem from="1624605459653" duration="8778000" />
+      <workItem from="1625065268202" duration="613000" />
+      <workItem from="1626168899572" duration="5388000" />
+      <workItem from="1626346545642" duration="762000" />
+      <workItem from="1627637688461" duration="16540000" />
+      <workItem from="1628263738252" duration="9000" />
+      <workItem from="1630319449318" duration="1195000" />
+      <workItem from="1630404195436" duration="3405000" />
+      <workItem from="1631010267457" duration="1804000" />
+      <workItem from="1631017397002" duration="154000" />
+      <workItem from="1631109750295" duration="10328000" />
+      <workItem from="1631121751219" duration="5472000" />
+      <workItem from="1631177735563" duration="15767000" />
+      <workItem from="1631206020321" duration="4551000" />
+      <workItem from="1631812067158" duration="332000" />
+      <workItem from="1631890067773" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
